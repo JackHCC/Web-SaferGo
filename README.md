@@ -17,6 +17,8 @@ iSafe:2018华北五省暨港澳台大学生计算机应用大赛本科组一等�
 SaferGo:2019计算机设计大赛国赛一等奖
 
 ### 开发者
-[@JackHCC](https://github.com/JackHCC) [@Sanker](https://github.com/skingorz) [Charleswow](https://github.com/Charleswow)
++ [@JackHCC](https://github.com/JackHCC) 
++ [@Sanker](https://github.com/skingorz) 
++ [@Charleswow](https://github.com/Charleswow)
 
 ©  SaferGo
